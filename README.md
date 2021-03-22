@@ -1,16 +1,10 @@
 ## Desafio 01 - Conceitos do NodeJs
 
 ### Requisitos
-[] Criar usuário com name e username
-
-[] Criar um novo todo
-
-[] Criar lista de todos
-
-[] Alterar o title e deadline de um todo existente
-
-[] Marcar um todo como feito
-
-[] Excluir um todo
-
-[] Todos os itens acima para usuários especificos (username passado pelo header)
+[x] Criar usuário com name e username
+[x] Criar um novo todo
+[x] Criar lista de todos
+[x] Alterar o title e deadline de um todo existente
+[x] Marcar um todo como feito
+[x] Excluir um todo
+[x] Todos os itens acima para usuários especificos (username passado pelo header)
